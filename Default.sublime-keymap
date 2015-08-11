@@ -1,0 +1,14 @@
+[
+    {
+        "command": "back_to_editor",
+        "context": [
+            {
+                "key": "panel_has_focus",
+                "operand": true
+            }
+        ],
+        "keys": [
+            "escape"
+        ]
+    }
+]
